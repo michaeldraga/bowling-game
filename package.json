@@ -1,0 +1,14 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Draga <midall01.md@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.0.2"
+  }
+}
