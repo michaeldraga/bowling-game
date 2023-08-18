@@ -1,8 +1,9 @@
 {
+  "type": "commonjs",
   "name": "bowling",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Michael Draga <midall01.md@gmail.com>",
+  "author": "Michael Draga <michael@michaeldraga.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.ts",
